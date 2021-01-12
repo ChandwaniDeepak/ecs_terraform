@@ -1,5 +1,6 @@
 # Provisioning VPC, ECS and ALB using Terraform
 ```awesome explanation https://www.youtube.com/watch?v=Ky7sph6fBtM```
+
 ```**Copied from https://github.com/mashun4ek/ecs_terraform_workshop **```
 
 **Updating it as per my requirements**
