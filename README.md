@@ -1,6 +1,8 @@
 # Provisioning VPC, ECS and ALB using Terraform
 ```awesome explanation https://www.youtube.com/watch?v=Ky7sph6fBtM```
-```Copied from https://github.com/mashun4ek/ecs_terraform_workshop```
+```**Copied from https://github.com/mashun4ek/ecs_terraform_workshop **```
+
+**Updating it as per my requirements**
 ![](https://github.com/mashun4ek/ecs_terraform_workshop/workflows/Terraform/badge.svg)
 
 This is the example of creating a simple infrastructure using Terraform and AWS cloud provider. It consists of:
